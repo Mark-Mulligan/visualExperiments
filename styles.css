@@ -527,10 +527,26 @@ body {
   top: 99%;
   left: 297%;
 }
+
 .tr3-row4-col7 {
   background: #0d2d3b;
   top: 99%;
   left: 297%;
+}
+
+/* row 5 */
+
+/*col 1 */
+.tr1-row5-col1 {
+  background: #0a222c;
+  top: 198%;
+  right: 297%;
+}
+
+.tr2-row5-col1 {
+  background:#0d2d3d;
+  top: 198%;
+  right: 297%;
 }
 
 
