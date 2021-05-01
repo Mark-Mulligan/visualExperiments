@@ -26,6 +26,79 @@ body {
   background-color: #e3fff8;
 }
 
+.title-container {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 370px;
+  height: 100%;
+  right: 99%;
+  z-index: 2;
+}
+
+.title {
+  font-size: 60px;
+}
+
+.skills-text {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 300%;
+  height: 100%;
+}
+
+.developer {
+  width: 400%;
+  left: 100%;
+  justify-content: start;
+  z-index: 2;
+  white-space: nowrap;
+}
+
+.css {
+  right: 150%;
+  top: 99%;
+}
+
+.react {
+  right: 99%;
+  bottom: 198%;
+}
+
+.javascript {
+  left: -99%;
+  bottom: 198%;
+}
+
+.uiux {
+  right: 0;
+  bottom: 99%;
+}
+
+.bootstrap {
+  left: 99%;
+  bottom: 99%;
+}
+
+.node {
+  top: 99%;
+  left: 99%;
+}
+
+.mongo {
+  right: 0;
+  top: 198%;
+}
+
+.sql {
+  top: 198%;
+}
+
 /* squares */
 .square {
   position: absolute;
