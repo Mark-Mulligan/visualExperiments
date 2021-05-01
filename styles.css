@@ -38,7 +38,8 @@ body {
   color: white;
   width: 370px;
   height: 100%;
-  right: 99%;
+  right: 0;
+  bottom: 99%;
   z-index: 2;
 }
 
@@ -58,7 +59,7 @@ body {
 
 .developer {
   width: 400%;
-  left: 100%;
+  top: 100%;
   justify-content: start;
   z-index: 2;
   white-space: nowrap;
