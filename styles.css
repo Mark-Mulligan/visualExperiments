@@ -18,44 +18,64 @@ body {
   align-items: center;
 }
 
-.center-x {
-  background-color: black;
+.center-square {
+  position: relative;
   height: 150px;
   width: 150px;
+  background-color: #e3fff8;
 }
 
+/* squares */
 .square {
   position: absolute;
-  width: 10%;
-}
-
-.square:after {
-  content: "";
-  display: block;
-  padding-bottom: 100%;
-}
-
-.sq-center {
-  left: 45%;
-  top: 40.5%;
-  background-color: lightblue;
+  width: 100%;
+  height: 100%;
 }
 
 .sq-left-center {
-  left: 35%;
-  top: 40.5%;
-  background-color: darkblue;
+  right: 100%;
+  background-color: #72cdda;
 }
 
+@media (max-width: 1200px) {
+  .center-square {
+    width: 135px;
+    height: 135px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .center-square {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+@media (max-width: 800px) {
+  .center-square {
+    width: 105px;
+    height: 105px;
+  }
+}
+
+@media (max-width: 600px) {
+  .center-square {
+    width: 90px;
+    height: 90px;
+  }
+}
+
+/* triangle */
 .triangle {
   position: absolute;
-  width: 10%;
+  width: 100%;
+  height: 100%;
 }
 
-.triangle:after {
-  content: "";
-  display: block;
-  padding-bottom: 100%;
+.triangle-inner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
 
 .tr-bottom-left {
@@ -71,23 +91,51 @@ body {
 }
 
 .tr-bottom-right {
-  clip-path: polygon(100% 100%, 100% 1%, 0 100%);
+  clip-path: polygon(100% 100%, 100% 0, 0 100%);
 }
 
 .tr-quarter-left {
   clip-path: polygon(0 100%, 50% 50%, 0 0);
 }
 
+.tr-quarter-bottom {
+  clip-path: polygon(0 100%, 100% 100%, 50% 50%);
+}
+
+.tr-quater-right {
+  clip-path: polygon(50% 50%, 100% 100%, 100% 0);
+}
+
+.tr-quarter-top {
+  clip-path: polygon(0 0, 50% 50%, 100% 0);
+}
+
 .tr-1 {
-  background-color: green;
-  left: 55%;
-  top: 40.5%;
+  background-color: #79d3db;
+  left: 100%;
 }
 
 .tr-2 {
-  background-color: yellow;
-  left: 55%;
-  top: 40.5%;
+  background-color: #5db2cc;
+  left: 100%;
+}
+
+.tr-3 {
+  background-color:#7bd8db;
+  left: 0%;
+  top: -100%;
+}
+
+.tr-4 {
+  background-color: #79d3db;
+  left: 0%;
+  top: -100%;
+}
+
+.tr-5 {
+  background: #5eb2cc;
+  left: 0%;
+  top: -100%;
 }
 
 
