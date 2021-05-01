@@ -2,6 +2,10 @@ body {
   min-height: 300vh;
 }
 
+.light-blue {
+  color: #72cdda;
+}
+
 .hero-section {
   height: 110vh;
   width: 100%;
@@ -97,6 +101,22 @@ body {
 
 .sql {
   top: 198%;
+}
+
+/* about section */
+.about-section {
+  padding-top: 150px;
+  min-height: 200vh;
+  background: #09141c;
+  color: #e3fff8;
+}
+
+.quote {
+  max-width: 600px;
+}
+
+.quote h2 {
+  display: inline-block;
 }
 
 /* squares */
@@ -894,13 +914,6 @@ body {
   top: 297%;
   left: 297%;
 }
-
-
-
-
-
-
-
 
 
 
