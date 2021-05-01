@@ -315,6 +315,45 @@ body {
   top: -99%;
 }
 
+/* col 5 */
+.tr1-row2-col5 {
+  background: #6bc5d7;
+  top: -99%;
+  left: 99%;
+}
+
+.tr2-row2-col5 {
+  background:#4d9bb9; 
+  top: -99%;
+  left: 99%;
+}
+
+.tr3-row2-col5 {
+  background:#63bdd1;
+  top: -99%;
+  left: 99%;
+}
+
+/* col 6 */
+.sq-row2-col6 {
+  background: #153948;
+  top: -99%;
+  left: 198%;
+}
+
+/* col 7 */
+.tr1-row2-col7 {
+  background: #0f2c3b;
+  top: -99%;
+  left: 297%;
+}
+
+.tr2-row2-col7 {
+  background: #07161f;
+  top: -99%;
+  left: 297%;
+}
+
 
 
 
