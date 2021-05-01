@@ -354,6 +354,36 @@ body {
   left: 297%;
 }
 
+/* Row 3 */
+
+/* Col 1 */
+.tr1-row3-col1 {
+  background: #103445;
+  right: 297%;
+}
+
+.tr2-row3-col1 {
+  background: #205368;
+  right: 297%;
+}
+
+/* col 2 */
+.tr1-row3-col2 {
+  background: #215469;
+  right: 198%;
+}
+
+.tr2-row3-col2 {
+  background: #2b6883;
+  right: 198%;
+}
+
+/* col 3 */
+.sq-row3-col3 {
+  background: #71ced8;
+  right: 99%;
+}
+
 
 
 
