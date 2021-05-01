@@ -96,12 +96,40 @@ body {
   clip-path: polygon(0 100%, 100% 100%, 50% 50%);
 }
 
-.tr-quater-right {
+.tr-quarter-right {
   clip-path: polygon(50% 50%, 100% 100%, 100% 0);
 }
 
 .tr-quarter-top {
   clip-path: polygon(0 0, 50% 50%, 100% 0);
+}
+
+/* ROW 1 */
+
+/* col 1 */
+.tr1-row1-col1 {
+  background: #08252d; 
+  top: -198%;
+  right:298%;
+}
+
+.tr2-row1-col1 {
+  background: #081b24; 
+  z-index: 3;
+  top: -198%;
+  right:298%;
+}
+
+.tr3-row1-col1 {
+  background: #11313f;
+  top: -198%;
+  right:298%;
+}
+
+.tr4-row1-col1 {
+  background:#1b4456; 
+  top: -198%;
+  right:298%;
 }
 
 .tr-1 {
