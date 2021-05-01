@@ -254,81 +254,67 @@ body {
   right:297%;
 }
 
-
-.tr-1 {
-  background-color: #79d3db;
-  left: 100%;
+/* col 2 */
+.tr1-row2-col2 {
+  background: #23566c;
+  top: -99%;
+  right:198%;
 }
 
-.tr-2 {
-  background-color: #5db2cc;
-  left: 100%;
+.tr2-row2-col2 {
+  background:#307088;
+  top: -99%;
+  right:198%;
 }
 
-.tr-3 {
-  background-color:#7bd8db;
-  top: -100%;
+.tr3-row2-col2 {
+  background:#2b6984;
+  top: -99%;
+  right:198%;
 }
 
-.tr-4 {
-  background-color: #79d3db;
-  top: -100%;
+.tr4-row2-col2 {
+  background:#215268;
+  top: -99%;
+  right:198%;
 }
 
-.tr-5 {
-  background: #5eb2cc;
-  top: -100%;
+/* col 3 */
+.tr1-row2-col3 {
+  background: #326d87;
+  top: -99%;
+  right:99%;
 }
 
-.tr-6 {
-  background: #7fdadb;
-  top: 100%;
+.tr2-row2-col3 {
+  background:#448eae;
+  top: -99%;
+  right:99%;
 }
 
-.tr-7 {
-  background: #8ae9e2;
-  top: 100%;
+.tr3-row2-col3 {
+  background: #418ead;
+  top: -99%;
+  right:99%;
 }
 
-.tr-8 {
-  background: #74d0da;
-  top: 100%;
+.tr4-row2-col3 {
+  background: #377d98;
+  top: -99%;
+  right:99%;
 }
 
-.tr-9 {
-  background: #4e99b8;
-  top: 199%;
+/* col 4 */
+.tr1-row2-col4 {
+  background: #7bd8dc;
+  top: -99%;
 }
 
-.tr-10 {
-  background:#418ead;
-  top: 199%;
+.tr2-row2-col4 {
+  background:#5eb2cc;
+  top: -99%;
 }
 
-.tr-11 {
-  background:#112c39;
-  top: 199%;
-}
-
-.tr-12 {
-  background:#2a6883;
-  right: 199%;
-}
-
-.tr-13 {
-  background: #23566e;
-  right: 199%;
-}
-
-.tr-14 {
-  background:#103445;
-  right: 298%;
-}
-
-.tr-15 {
-  background:#205368;
-  right: 298%;
-}
 
 
 
