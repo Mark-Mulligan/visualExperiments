@@ -384,8 +384,85 @@ body {
   right: 99%;
 }
 
+/* col 5 */
+.tr1-row3-col5 {
+  background: #74d0da;
+  left: 99%;
+}
 
+.tr2-row3-col5 {
+  background: #5eb2cc;
+  left: 99%;
+}
 
+/* col 6 */
+.tr1-row3-col6 {
+  background: #2a6883;
+  left: 198%;
+}
+
+.tr2-row3-col6 {
+  background: #112c37;
+  left: 198%;
+}
+
+.tr3-row3-col6 {
+  background: #1f4e65;
+  left: 198%;
+}
+
+/* col 7 */
+.sq-row3-col7 {
+  background: #08252d;
+  left: 297%;
+}
+
+/* Row 4 */
+
+/* col 1 */
+.tr1-row4-col1 {
+  background: #153e4d;
+  top: 99%;
+  right: 297%;
+}
+
+.tr2-row4-col1 {
+  background: #163a49;
+  top: 99%;
+  right: 297%;
+}
+
+/* col 2 */
+.tr1-row4-col2 {
+  background: #194455;
+  top: 99%;
+  right: 198%;
+}
+
+.tr2-row4-col2 {
+  background: #28617b;
+  top: 99%;
+  right: 198%;
+}
+
+.tr3-row4-col2 {
+  background: #204f64;
+  top: 99%;
+  right: 198%;
+}
+
+/* col 3 */
+.tr1-row4-col3 {
+  background: #63bdd1;
+  top: 99%;
+  right: 99%;
+}
+
+.tr2-row4-col3 {
+  background: #5bb0ca;
+  top: 99%;
+  right: 99%;
+}
 
 
 
