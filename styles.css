@@ -497,6 +497,42 @@ body {
   left: 99%;
 }
 
+/* col 6 */
+.tr1-row4-col6 {
+  background: #1e5267;
+  top: 99%;
+  left: 198%;
+}
+
+.tr2-row4-col6 {
+  background:#29627c;
+  top: 99%;
+  left: 198%;
+}
+.tr3-row4-col6 {
+  background: #0c212a;
+  top: 99%;
+  left: 198%;
+}
+
+/* col 7 */
+.tr1-row4-col7 {
+  background: #103443;
+  top: 99%;
+  left: 297%;
+}
+
+.tr2-row4-col7 {
+  background:#0c212a;
+  top: 99%;
+  left: 297%;
+}
+.tr3-row4-col7 {
+  background: #0d2d3b;
+  top: 99%;
+  left: 297%;
+}
+
 
 
 
