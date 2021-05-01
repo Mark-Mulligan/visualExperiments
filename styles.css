@@ -1,0 +1,84 @@
+body {
+  min-height: 300vh;
+}
+
+.hero-section {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  border: 2px solid green;
+}
+
+.square {
+  position: absolute;
+  background-color: lightblue;
+  height: 50px;
+  width: 50px;
+}
+
+.background-img {
+  background-image: url("./images/firewatch.jpg");
+  height: 500px;
+  width: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.triangle-1 {
+  background-color: rgb(0, 0, 0);
+  clip-path: polygon(50% 0, 0 100%, 100% 100%); 
+}
+
+.triangle-2 {
+  position: absolute;
+  background-image: url("./images/firewatch.jpg");
+  height: 200px;
+  width: 200px;
+  clip-path: polygon(50% 0, 0 100%, 100% 100%);
+}
+
+.triangle-3 {
+  position: absolute;
+  left: 120px;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 200px solid rgba(100, 100, 100, 0.5);
+}
+
+.triangle-up {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid rgba(100, 100, 100, 0.5);
+}
+
+.triangle-up-3 {
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 170px;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 200px solid rgba(100, 100, 100, 0.5);
+}
+
+.triangle-down {
+  position: absolute;
+  left: 60px;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-top: 200px solid red;
+}
+
+.triangle-container {
+  position: relative;
+  width: 500px;
+  margin: 50px auto;
+}
+
