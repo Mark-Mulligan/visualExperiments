@@ -464,6 +464,38 @@ body {
   right: 99%;
 }
 
+/* col 4 */
+.tr1-row4-col4 {
+  background: #8ae9e2;
+  top: 99%;
+}
+
+.tr2-row4-col4 {
+  background:#7fdadb;
+  top: 99%;
+}
+.tr3-row4-col4 {
+  background: #74d0da;
+  top: 99%;
+}
+
+/* col 5 */
+.tr1-row4-col5 {
+  background: #63bdd1;
+  top: 99%;
+  left: 99%;
+}
+
+.tr2-row4-col5 {
+  background:#5bb0ca;
+  top: 99%;
+  left: 99%;
+}
+.tr3-row4-col5 {
+  background: #4c9bb9;
+  top: 99%;
+  left: 99%;
+}
 
 
 
