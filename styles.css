@@ -116,22 +116,48 @@ body {
 
 .tr-3 {
   background-color:#7bd8db;
-  left: 0%;
   top: -100%;
 }
 
 .tr-4 {
   background-color: #79d3db;
-  left: 0%;
   top: -100%;
 }
 
 .tr-5 {
   background: #5eb2cc;
-  left: 0%;
   top: -100%;
 }
 
+.tr-6 {
+  background: #7fdadb;
+  top: 100%;
+}
+
+.tr-7 {
+  background: #8ae9e2;
+  top: 100%;
+}
+
+.tr-8 {
+  background: #74d0da;
+  top: 100%;
+}
+
+.tr-9 {
+  background: #4e99b8;
+  top: 200%;
+}
+
+.tr-10 {
+  background:#418ead;
+  top: 200%;
+}
+
+.tr-11 {
+  background:#112c39;
+  top: 200%;
+}
 
 
 
