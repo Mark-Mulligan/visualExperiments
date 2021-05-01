@@ -549,6 +549,48 @@ body {
   right: 297%;
 }
 
+/*col 2 */
+.tr1-row5-col2 {
+  background: #0f2d3b;
+  top: 198%;
+  right: 198%;
+}
+
+.tr2-row5-col2 {
+  background:#113546;
+  top: 198%;
+  right: 198%;
+}
+
+/*col 3 */
+.tr1-row5-col3 {
+  background: #1e5267;
+  top: 198%;
+  right: 99%;
+}
+
+.tr2-row5-col3 {
+  background:#2c6580;
+  top: 198%;
+  right: 99%;
+}
+
+/* col 4 */
+.tr1-row5-col4 {
+  background: #428dab;
+  top: 198%;
+}
+
+.tr2-row5-col4 {
+  background:#4e99b8;
+  top: 198%;
+}
+
+.tr3-row5-col4 {
+  background: #112c37;
+  top: 198%;
+}
+
 
 
 
